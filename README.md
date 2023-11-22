@@ -1,2 +1,2 @@
-# HR-analytics-dashboard-MySql-PowerBi
-MySql, Power Bi
+# HR-Analytics-Dashboard
+
