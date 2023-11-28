@@ -1,0 +1,14 @@
+department,total_empolyee,terminated_employee,active_employee,termination_rate
+Marketing,494,46,422,94.74
+Training,1692,196,1401,94.39
+"Human Resources",1807,202,1498,94.08
+Accounting,3333,368,2747,93.46
+Services,1686,182,1393,93.42
+Engineering,6686,744,5501,93.40
+"Product Management",641,69,527,92.98
+Sales,1832,204,1497,92.85
+"Business Development",1642,155,1367,92.69
+Auditing,52,8,40,92.31
+Legal,311,39,248,92.28
+"Research and Development",1084,126,872,92.07
+Support,954,99,772,91.30

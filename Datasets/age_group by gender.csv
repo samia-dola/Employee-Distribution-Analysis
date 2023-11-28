@@ -1,0 +1,16 @@
+age_group,gender,emp_in_each_group
+18-24,Female,1052
+18-24,Male,1227
+18-24,Non-Conforming,57
+25-34,Female,2843
+25-34,Male,3034
+25-34,Non-Conforming,157
+35-44,Female,2723
+35-44,Male,3146
+35-44,Non-Conforming,168
+45-54,Female,2844
+45-54,Male,2990
+45-54,Non-Conforming,165
+55-64,Female,859
+55-64,Male,891
+55-64,Non-Conforming,58
