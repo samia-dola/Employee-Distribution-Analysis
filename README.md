@@ -21,7 +21,7 @@ Welcome to the Employee-Distribution! This project contains valuable insights an
 ## 2. Purpose of the Project 
 The major aim of this project is to provide an insightful Employee Distribution Dashboard and help the organization in HR planning and decision-making processes. 
 
-## 3. [Dataset]
+## 3. [Dataset](Datasets/Emplyoee Distribution Dataset.csv)
 This repository contains valuable insights and visualizations derived from an extensive HR dataset spanning from 2000 to 2020, with over 22,000 rows.
 
 ## 4. [Project Analysis]
