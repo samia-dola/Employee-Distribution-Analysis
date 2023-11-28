@@ -5,15 +5,15 @@ In the project **Employee Distribution Analysis**, SQL queries are applied to ge
 
 # Employee Distribution Analysis
 ## Table of Contents
-- [Introduction]
-- [Purpose of the Project]
-- [Dataset]
-- [Project Analysis]
-  - [Data Cleaning]
-  - [Exploratory Data Analysis (EDA)]
-  - Data Visualization
-- [Project Insights]
-- [Conclusion]
+- [Introduction](https://github.com/samia-dola/Employee-Distribution-Report/blob/main/README.md#1-introduction)
+- [Purpose of the Project](https://github.com/samia-dola/Employee-Distribution-Report/blob/main/README.md#2-purpose-of-the-project)
+- [Dataset](https://github.com/samia-dola/Employee-Distribution-Report/blob/main/README.md#3-dataset)
+- [Project Analysis](https://github.com/samia-dola/Employee-Distribution-Report/blob/main/README.md#4-project-analysis)
+  - [Data Cleaning](https://github.com/samia-dola/Employee-Distribution-Report/blob/main/README.md#a-data-cleaning)
+  - [Exploratory Data Analysis (EDA)](https://github.com/samia-dola/Employee-Distribution-Report/blob/main/README.md#b-exploratory-data-analysis-eda)
+  - [Data Visualization](https://github.com/samia-dola/Employee-Distribution-Report/blob/main/README.md#c-data-visualization)
+- [Project Insights](https://github.com/samia-dola/Employee-Distribution-Report/blob/main/README.md#6-project-insights)
+- [Conclusion](https://github.com/samia-dola/Employee-Distribution-Report/blob/main/README.md#7-conclusion)
 
 ## 1. Introduction
 Welcome to the Employee-Distribution! This project contains valuable insights and visualizations derived from an extensive HR dataset spanning from 2000 to 2020, with over 22,000 rows. The data was meticulously cleaned and analyzed using MySQL, and the results are beautifully visualized with Power BI. This comprehensive dashboard aims to answer crucial HR-related questions and shed light on various aspects of the organization's workforce.
@@ -36,8 +36,8 @@ This is the first step in project analysis. In the data cleaning process the fol
 - Check for some more Transformations.
 
 ### b. Exploratory Data Analysis (EDA) 
-    Exploratory data analysis(EDA) is the method to answer and analyse the business questions.
-
+ Exploratory Data Analysis (EDA) is the method to answer and analyse the business questions.
+    
 #### Business Questions
 1. What is the gender breakdown of employees in the company?
 2. What is the race/ethnicity breakdown of employees in the company?
@@ -51,7 +51,8 @@ This is the first step in project analysis. In the data cleaning process the fol
 10. How has the company's employee count changed over time based on hire and term dates?
 11. What is the tenure distribution for each department?
 
-**In the following ways the Business questions are analyzed and explored to get an overview of employee distribution in various expect:**
+
+***In the following ways the Business questions are analyzed and explored to get an overview of employee distribution in various expect:***
 
 - **Gender Breakdown:** Gender distribution of employees within the company.
 - **Race/Ethnicity Breakdown:** Racial and ethnic composition of the workforce.
@@ -65,6 +66,7 @@ This is the first step in project analysis. In the data cleaning process the fol
 - **Employee Count Changes over Time:** Tracking changes in the company's employee count over the years based on hiring and termination dates.
 - **Tenure Distribution by Department:** Examining the tenure distribution for each department.
 
+
 ### c. Data Visualization
 Data visualiztion step in project analysis is conducted by using Microsoft Power Bi tool and produced an insightful dashboad.
 
@@ -73,7 +75,7 @@ Data visualiztion step in project analysis is conducted by using Microsoft Power
 ![Dashboard_2](https://github.com/samia-dola/Employee-Distribution-Report/assets/150064729/17c67be2-3ddb-482b-93af-369f00b3d37a)
 
 
-## 6. Project Insights 
+## 5. Project Insights 
 Here are some key findings derived from the HR data analysis:
 
 - **Gender Diversity:** The company has more male employees than female employees.
@@ -87,5 +89,5 @@ Here are some key findings derived from the HR data analysis:
 - **Employee Count Trends:** Over the years, the company's employee count has been on the rise.
 - **Tenure Variation by Department:** The average tenure for each department is approximately 8 years, with Legal and Auditing having the highest, and Services, Sales, and Marketing having the lowest.
 
-## 7. Conclusion
+## 6. Conclusion
 
