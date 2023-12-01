@@ -36,7 +36,7 @@ This is the first step in project analysis. In the data cleaning process the fol
 - Check for some more Transformations.
 
 ### b. [Exploratory Data Analysis (EDA)](https://github.com/samia-dola/Employee-Distribution-Analysis/blob/main/Queries/Business%20Qsn.sql)
- Exploratory Data Analysis (EDA) is the method to answer and analyse the business questions.
+ Exploratory Data Analysis (EDA) is the method to answer and analyse business questions.
     
 #### Business Questions
 1. What is the gender breakdown of employees in the company?
@@ -61,14 +61,14 @@ This is the first step in project analysis. In the data cleaning process the fol
 - **Average Employment Length for Terminated Employees:** Finding out the average tenure of terminated employees.
 - **Gender Distribution across Departments and Job Titles:** Seeing how gender distribution varies across different departments and job titles.
 - **Distribution of Job Titles:** Exploring the distribution of job titles across the company.
-- **Highest Turnover Rate by Department:** Identifing the department with the highest turnover rate.
+- **Highest Turnover Rate by Department:** Identifying the department with the highest turnover rate.
 - **Distribution of Employees across Locations (by State):** Learning about the geographic distribution of employees across different states.
 - **Employee Count Changes over Time:** Tracking changes in the company's employee count over the years based on hiring and termination dates.
 - **Tenure Distribution by Department:** Examining the tenure distribution for each department.
 
 
 ### c. [Data Visualization](https://github.com/samia-dola/Employee-Distribution-Analysis/tree/main/Report)
-Data visualiztion step in project analysis is conducted by using Microsoft Power Bi tool and produced an insightful dashboad.
+Data visualiztion step in project analysis is conducted by using Microsoft Power Bi tool and produced an insightful dashboard.
 
 ![Dashboard_1](https://github.com/samia-dola/Employee-Distribution-Report/assets/150064729/f9a38190-5e04-4084-89f4-82af6da46fa4)
 
@@ -90,5 +90,5 @@ Here are some key findings derived from the HR data analysis:
 - **Tenure Variation by Department:** The average tenure for each department is approximately 8 years, with Legal and Auditing having the highest, and Services, Sales, and Marketing having the lowest.
 
 ## 6. Conclusion
-At the end of the analysis, it can be said that the project insights will help the organization to plan and make valuable decision about their HR department.
+At the end of the analysis, it can be said that the project insights will help the organization to plan and make valuable decisions about their HR department.
 
