@@ -82,7 +82,7 @@ Here are some key findings derived from the HR data analysis:
 - **Race/Ethnicity:** White employees constitute the majority, while Native Hawaiian and American Indian employees are the least represented.
 - **Age Diversity:** Employees' ages range from 20 to 57, with the majority falling within the 25-34 age group.
 - **Work Locations:** A considerable number of employees work at the headquarters compared to remote locations.
-- **Termination Tenure:** The average length of employment for terminated employees is around 7 years.
+- **Termination Tenure:** The average length of employment for terminated employees is around 8 years.
 - **Gender Balance in Departments:** While gender distribution across departments is fairly balanced, male employees slightly outnumber female employees in most departments.
 - **High Turnover Departments:** The Marketing department experiences the highest turnover rate, followed by Training. Research and Development, Support, and Legal departments have the lowest turnover rates.
 - **Employee Geographic Distribution:** A significant number of employees hail from the state of Ohio.
